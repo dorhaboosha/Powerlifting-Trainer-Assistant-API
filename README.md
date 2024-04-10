@@ -1,4 +1,4 @@
-# crossfit_trainning_api- made by Dor Habooshe, Itay Golan and Moran Herzlinger
+# Power Lifting API- made by Dor Habooshe, Itay Golan and Moran Herzlinger
 Link to the video- https://youtu.be/xNZTbHj9JV0
 
 Our project is designed for Powerlifting trainers which will help them in their training routine.

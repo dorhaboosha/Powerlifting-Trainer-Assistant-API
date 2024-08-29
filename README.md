@@ -1,7 +1,7 @@
 # Powerlifting Trainer's Assistant API- made by Dor Habooshe, Itay Golan and Moran Herzlinger
 Link to the video- https://youtu.be/xNZTbHj9JV0
 
-we developed a Powerlifting Trainer's Assistant designed to enhance training routines through a series of functionalities built using **FastAPI** and **SQLite**.
+We developed a Powerlifting Trainer's Assistant designed to enhance training routines through a series of functionalities built using **FastAPI** and **SQLite**.
 The project starts with a **registration function** where users can register their email, height, weight, and name.
 Upon registration, the system calculates the user's BMI and stores their data along with three empty lists for tracking record weights in a **SQLite database**.
 The project also includes a **search function** that allows users to retrieve their profile information by entering their email address.
